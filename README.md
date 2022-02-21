@@ -2,6 +2,17 @@
 
 Here you can find some cool and usefull API which I have search for you ✅
 
+<details>
+  <summary><b>What is an API?</b></summary>
+  Application programming interface, an software solution which enable two applications to <b>talk together</b>. In our case, your application will <b>request</b> one of the site below and get an response in the <b>specified format</b>.
+</details>
+<details>
+  <summary><b>Why use API?</b></summary>
+  - APIs provide a huge amount of functionality, which can be used to develop your own applications or websites.<br>
+  - APIs make your work faster and make the entire workflow smoother.<br>
+  - APIs provide greater flexibility in delivering services and allows them to be shared and distributed more easily.
+</details>
+
 | Category | Name           | Docs                                                          | Response format              |
 |----------|----------------|---------------------------------------------------------------|------------------------------|
 | Finance  | Yahoo Finance  | [Docs](https://www.yahoofinanceapi.com/)                      | JSON                         |
