@@ -1,4 +1,4 @@
-# Usefull API
+# Usefull APIs
 
 Here you can find some cool and usefull API which I have search for you ✅
 
@@ -13,6 +13,8 @@ Here you can find some cool and usefull API which I have search for you ✅
   - APIs provide greater flexibility in delivering services and allows them to be shared and distributed more easily.
 </details>
 
+## Useful APIs
+
 | Category | Name           | Docs                                                          | Response format              |
 |----------|----------------|---------------------------------------------------------------|------------------------------|
 | Finance  | Yahoo Finance  | [Docs](https://www.yahoofinanceapi.com/)                      | JSON                         |
@@ -24,4 +26,6 @@ Here you can find some cool and usefull API which I have search for you ✅
 | Weather  | OpenWeather    | [Docs](https://openweathermap.org/)                           | JSON, XML, HTML              |
 | Other    | ScreenShot API | [Docs](https://docs.screenshotapi.net/?ref=redirect)          | PNG                          |
 
-Updates soon
+## APIs list with examples and source
+
+[RapidAPI](https://rapidapi.com/hub)
