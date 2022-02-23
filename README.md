@@ -28,4 +28,4 @@ Here you can find some cool and usefull API which I have search for you ✅
 
 ## APIs list with examples and source
 
-[RapidAPI](https://rapidapi.com/hub)
+[RapidAPI](https://rapidapi.com/)
