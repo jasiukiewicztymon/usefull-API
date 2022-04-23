@@ -15,6 +15,8 @@ Here you can find some cool and usefull API which I have search for you ✅
 
 ## Useful APIs
 
+Here you have some API's that I have used or I want to use in the future...
+
 | Category | Name           | Docs                                                          | Response format              |
 |----------|----------------|---------------------------------------------------------------|------------------------------|
 | Finance  | Yahoo Finance  | [Docs](https://www.yahoofinanceapi.com/)                      | JSON                         |
